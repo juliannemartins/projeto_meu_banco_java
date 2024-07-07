@@ -30,7 +30,7 @@ Neste repositório você encontrará a minha resposta em Java para o desafio do 
           3- Transferir valor
           4- Sair
 
-          Digite a opção desejada:"
+          Digite a opção desejada:
     
   </text>
 </div>
